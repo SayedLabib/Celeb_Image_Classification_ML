@@ -32,4 +32,16 @@ Raw images ----> Cropped faces with two eyes using haar cascade -----> Manual Da
 -------> Then, saved our model to a file ------> Then, webpage design and  ------> 
 Connect with flask Server -------> Save the model
 
- 
+
+// Now the cropped images folder has been created now I will do the Wavelet transformation of the
+images which will extract the important features of the images
+
+//There are other ways to extracting the features of the images but Wavelet transformation is
+  one  of the effective way to extract the features of the images
+
+// Study the -  1. Time domain and signal processing domain
+
+// Now since I created the function that will transform the image into Wavelet
+// Now I will iterate through the celebrity_img_dictionary to transform the image into Wavelet
+  formation
+  
