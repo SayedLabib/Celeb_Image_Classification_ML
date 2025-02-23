@@ -44,4 +44,10 @@ images which will extract the important features of the images
 // Now since I created the function that will transform the image into Wavelet
 // Now I will iterate through the celebrity_img_dictionary to transform the image into Wavelet
   formation
-  
+
+
+// Now, we have done with the Data cleaning process and move up to the train model - 
+
+// Initially, I will split the dataset into training and testing sets
+
+// Then, I will use SkLearn pipeline method to get scale the datasets
